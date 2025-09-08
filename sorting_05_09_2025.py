@@ -8,7 +8,6 @@ def sortAscM1(data):
   
   print(data)
   
-
 # bubble sort
 def sortAscM2(data):
   left = 0
